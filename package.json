@@ -1,0 +1,9 @@
+{
+  "name": "wou-cybercrime-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WOU Cybercrime Investigation and Enforcement website redesign",
+  "type": "module",
+  "scripts": { "start": "node server.mjs", "dev": "node --watch server.mjs" },
+  "engines": { "node": ">=22" }
+}
